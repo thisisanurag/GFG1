@@ -1,3 +1,4 @@
+# Just the function definition, you are free to create the driver code
 def countDistinct(arr, n, k):
     z=k
     if (k==0):
